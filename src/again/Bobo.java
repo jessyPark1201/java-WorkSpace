@@ -8,6 +8,7 @@ public class Bobo {
 		String value = "1월1일";
 
 		System.out.println(value);
+		
 	}
 
 }
